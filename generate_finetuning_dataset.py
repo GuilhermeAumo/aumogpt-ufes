@@ -15,7 +15,7 @@ hf_token = os.getenv("HF_TOKEN", None)
 if hf_token is None:
     raise ValueError("Please set the HF_TOKEN environment variable in the .env or in the shell.")
 # Load dados.json
-with open('dados.json') as f:
+with open('data/AUMOGPT-dataset-final.json') as f:
     data = json.load(f)
 
 
@@ -27,6 +27,9 @@ df_data["messages"] = df_data.apply(lambda row: [{"role": "user", "content": str
 
 print(">>> Dataframe com mensagens formatadas:")
 print(df_data.head())
+print(">>> Randomizing dataset order")
+df_data = df_data.sample(frac=1).reset_index(drop=True)
+
 
 ## Convert to Huggingface Dataset
 dataset = Dataset.from_pandas(df_data)
@@ -43,15 +46,26 @@ print(dict_dataset)
 
 ## Save dataset to hf
 # Authenticate (ensure you have a Hugging Face token set up)
-api = HfApi()
 
-# Create a new dataset repository on the Hugging Face Hub
-try:
-    api.create_repo(repo_id=f"aumoai/{hf_dataset_name}", private=True, token=hf_token, repo_type="dataset")
-except Exception as e:
-    print("Dataset already exists. Skipping repo creation.")
+# api = HfApi()
 
-# Push the dataset
-dict_dataset.push_to_hub(f"aumoai/{hf_dataset_name}", private=True, token=hf_token)
+# # Create a new dataset repository on the Hugging Face Hub
+# try:
+#     api.create_repo(repo_id=f"aumoai/{hf_dataset_name}", private=True, token=hf_token, repo_type="dataset")
+# except Exception as e:
+#     print("Dataset already exists. Skipping repo creation.")
 
-print(f"Dataset uploaded to Hugging Face under aumoai/{hf_dataset_name}")
+# # Push the dataset
+# dict_dataset.push_to_hub(f"aumoai/{hf_dataset_name}", private=True, token=hf_token)
+
+# print(f"Dataset uploaded to Hugging Face under aumoai/{hf_dataset_name}")
+
+
+## Convert datasets messages to JSON
+for split_name, split_dataset in [("train", train_dataset["train"]), ("test", test_dataset["train"]), ("validation", validation_dataset)]: 
+    messages = split_dataset["messages"]
+    json_file_name = f"data/aumogpt_{split_name}.json"
+    with open(json_file_name, "w") as f:
+        json.dump(messages, f)
+    print(f"Dataset messages saved to {json_file_name}")
+
