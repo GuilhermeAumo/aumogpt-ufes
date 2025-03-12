@@ -47,18 +47,18 @@ print(dict_dataset)
 ## Save dataset to hf
 # Authenticate (ensure you have a Hugging Face token set up)
 
-# api = HfApi()
+api = HfApi()
 
-# # Create a new dataset repository on the Hugging Face Hub
-# try:
-#     api.create_repo(repo_id=f"aumoai/{hf_dataset_name}", private=True, token=hf_token, repo_type="dataset")
-# except Exception as e:
-#     print("Dataset already exists. Skipping repo creation.")
+# Create a new dataset repository on the Hugging Face Hub
+try:
+    api.create_repo(repo_id=f"aumoai/{hf_dataset_name}", private=True, token=hf_token, repo_type="dataset")
+except Exception as e:
+    print("Dataset already exists. Skipping repo creation.")
 
-# # Push the dataset
-# dict_dataset.push_to_hub(f"aumoai/{hf_dataset_name}", private=True, token=hf_token)
+# Push the dataset
+dict_dataset.push_to_hub(f"aumoai/{hf_dataset_name}", private=True, token=hf_token)
 
-# print(f"Dataset uploaded to Hugging Face under aumoai/{hf_dataset_name}")
+print(f"Dataset uploaded to Hugging Face under aumoai/{hf_dataset_name}")
 
 
 ## Convert datasets messages to JSON
