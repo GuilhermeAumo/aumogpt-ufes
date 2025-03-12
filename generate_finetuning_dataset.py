@@ -65,7 +65,12 @@ print(f"Dataset uploaded to Hugging Face under aumoai/{hf_dataset_name}")
 for split_name, split_dataset in [("train", train_dataset["train"]), ("test", test_dataset["train"]), ("validation", validation_dataset)]: 
     messages = split_dataset["messages"]
     json_file_name = f"data/aumogpt_{split_name}.json"
+    new_json = []
+    for message in messages:
+        new_message = {"messages": message}
+        new_json.append(new_message)
+
     with open(json_file_name, "w") as f:
-        json.dump(messages, f)
+        json.dump(new_json, f)
     print(f"Dataset messages saved to {json_file_name}")
 
