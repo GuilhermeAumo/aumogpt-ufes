@@ -7,10 +7,12 @@ readme = "README.md"
 
 [tool.poetry.dependencies]
 python = ">=3.10,<3.13"
-datasets = "^3.3.2"
+datasets = "^3.2.0"
 huggingface-hub = "^0.29.1"
 huggingface = "^0.0.1"
 dotenv = "^0.9.9"
+oumi = {extras = ["gpu"], version = "^0.1.8"}
+lm-eval = {extras = ["vllm"], version = "^0.4.8"}
 
 
 [build-system]
