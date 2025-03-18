@@ -13,12 +13,20 @@ Global MMLU PT: 0.4583333333333333
 
 
 ## aumoai/llama3.2-3B-qlora-oumi-aumogpt-adapter   Quantizado 4bit
+LE : 2.0e-5
+Epochs : 8
+
 17/03/2025 20:50
 MMLU: 0.5754385964912281
 hellaswag: 0.52
 Global MMLU PT: 0.43333
 
+
+
 ## aumoai/llama3.2-3B-qlora-oumi-aumogpt-adapter   Quantizado 4bit
+LE : 3.0e-5
+Epochs : 8
+
 17/03/2025 21:03
 MMLU: 0.5684210526315789
 hellaswag: 0.52
