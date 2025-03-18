@@ -3,6 +3,8 @@ model:
   adapter_model: "aumoai/llama3.2-3B-qlora-oumi-aumogpt-adapter"
   trust_remote_code: True
   shard_for_eval: True
+  model_kwargs:
+    load_in_4bit: True
 
 tasks:
   - evaluation_backend: lm_harness
