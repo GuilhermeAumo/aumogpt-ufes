@@ -86,4 +86,15 @@ MMLU: 0.5508771929824562,
 hellaswag: 0.5
 Global MMLU PT: 0.425
 
+## aumoai/llama3.2-3B-lora-oumi-aumogpt-adapter LoRA
+LE: 4.0e-5
+Epochs: 2
+Batch Size: 4
+
+19/03/2025 22:04
+MMLU: 0.63
+hellaswag: 0.52
+Global MMLU PT: 0.475
+
+
 

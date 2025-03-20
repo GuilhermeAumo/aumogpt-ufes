@@ -1,10 +1,10 @@
 model:
   model_name: "meta-llama/Llama-3.2-3B-Instruct"
-  adapter_model: "aumoai/llama3.2-3B-qlora-oumi-aumogpt-adapter"
+  adapter_model: "aumoai/llama3.2-3B-lora-oumi-aumogpt-adapter" # "aumoai/llama3.2-3B-qlora-oumi-aumogpt-adapter"
   trust_remote_code: True
   shard_for_eval: True
   model_kwargs:
-    load_in_4bit: True
+    load_in_4bit: False
 
 tasks:
   - evaluation_backend: lm_harness
@@ -24,4 +24,4 @@ tasks:
       num_fewshot: 5
 
 
-output_dir: "eval_results/adapter"
+output_dir: "eval_results/adapter-lora"

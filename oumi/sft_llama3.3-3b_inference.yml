@@ -1,0 +1,10 @@
+model:
+  model_name: "results/oumi/llama3b.sft"
+  trust_remote_code: true
+  torch_dtype_str: "bfloat16"
+  model_kwargs:
+    load_in_4bit: False
+
+generation:
+  max_new_tokens: 2048
+  batch_size: 1
