@@ -15,7 +15,7 @@ hf_token = os.getenv("HF_TOKEN", None)
 if hf_token is None:
     raise ValueError("Please set the HF_TOKEN environment variable in the .env or in the shell.")
 # Load dados.json
-with open('data/dados_gpt_1.json') as f:
+with open('data/AUMOGPT-dataset-final.json') as f:
     data = json.load(f)
 
 
