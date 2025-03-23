@@ -35,7 +35,7 @@ poetry shell
 
 #### Finetune using Oumi
 
-Follow the [README.md](https://github.com/GuilhermeAumo/aumogpt-ufes/blob/main/oumi/readme.md) present on the Oumi directory, the first step can be skipped since Oumi is already present on [pyproject.toml](https://github.com/GuilhermeAumo/aumogpt-ufes/blob/main/pyproject.toml), which is executed by `poetry install`.
+Follow the [README.md](https://github.com/GuilhermeAumo/aumogpt-ufes/blob/main/oumi/readme.md) present in "oumi" directory, the first step can be skipped since Oumi is already present on [pyproject.toml](https://github.com/GuilhermeAumo/aumogpt-ufes/blob/main/pyproject.toml), which is executed by `poetry install`.
 
 #### Try the model 
 
