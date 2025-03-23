@@ -42,7 +42,7 @@ pip install oumi[gpu]
 
 In our case, we created the dataset like [this](https://github.com/GuilhermeAumo/aumogpt-ufes/blob/main/datasets/AUMOGPT-dataset-final.json), and created the datasets used using the [python script](https://github.com/GuilhermeAumo/aumogpt-ufes/blob/main/generate_finetuning_dataset.py) `python3 generate_finetuning_dataset.py` to match the json format above.
 
-2. Configure a .yml config file like the ones in this folder.
+2. Configure a .yml config file like the ones in this folder. Make sure that `dataset_path` variables in .yml are correct.
 
 3. Run (For Single GPU)`oumi train -c <your-config.yml>`, comment `output_adapter_name: "aumoai/llama3.2-3B-qlora-oumi-aumogpt-adapter"` on the present YAML in this case
 
@@ -61,4 +61,4 @@ oumi distributed torchrun \
   --fsdp.sharding_strategy FULL_SHARD
 ```
 
-5. Save on HF `python3 upload_adapter_to_hf.py <your-config.yml>`, dont forget to uncomment `output_adapter_name: "aumoai/llama3.2-3B-qlora-oumi-aumogpt-adapter"` on the present YAML in this case
+5. Save the model on HF (HuggingFace) `python3 upload_adapter_to_hf.py <your-config.yml>`, dont forget to uncomment `output_adapter_name: "aumoai/llama3.2-3B-qlora-oumi-aumogpt-adapter"` on the present YAML in this case. Be sure to have a `HF_TOKEN` system variable configured before using.
