@@ -29,11 +29,11 @@ data:
   train:
     datasets:
       - dataset_name: "text_sft"
-        dataset_path: "datasets/aumogpt_train.json"
+        dataset_path: "../datasets/aumogpt_train.json"
   validation:
     datasets:
       - dataset_name: "text_sft"
-        dataset_path: "datasets/aumogpt_validation.json"
+        dataset_path: "../datasets/aumogpt_validation.json"
         split: "validation"
 
 training:
