@@ -40,7 +40,7 @@ pip install oumi[gpu]
 ]
 ```
 
-In our case, we created the dataset like [this](https://github.com/GuilhermeAumo/aumogpt-ufes/blob/main/datasets/AUMOGPT-dataset-final.json), and created the datasets used using the [python script](https://github.com/GuilhermeAumo/aumogpt-ufes/blob/main/generate_finetuning_dataset.py) `python3 generate_finetuning_dataset.py` to match the json format above.
+In our case, we created the dataset like [this](https://github.com/GuilhermeAumo/aumogpt-ufes/blob/main/datasets/AUMOGPT-dataset-final.json), and created the datasets used by Oumi using the [python script](https://github.com/GuilhermeAumo/aumogpt-ufes/blob/main/generate_finetuning_dataset.py) `python3 generate_finetuning_dataset.py` to match the json format above.
 
 2. Configure a .yml config file like the ones in this folder. Make sure that `dataset_path` variables in .yml are correct. Comment `output_adapter_name: "model-id"` on the .yml to be used.
 
