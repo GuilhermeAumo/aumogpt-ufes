@@ -33,6 +33,10 @@ After installing, start environment:
 poetry shell
 ```
 
+#### Finetune using Oumi
+
+Follow the [README.md](https://github.com/GuilhermeAumo/aumogpt-ufes/blob/main/oumi/readme.md) present on the Oumi directory
+
 #### Try the model 
 
 To try any model:
