@@ -61,4 +61,4 @@ oumi distributed torchrun \
   --fsdp.sharding_strategy FULL_SHARD
 ```
 
-5. Save the model on HF (HuggingFace) `python3 upload_adapter_to_hf.py <your-config.yml>`, do not forget to uncomment `output_adapter_name: "model-id"`  on the .yml used. Be sure to have a `HF_TOKEN` system variable configured before using.
+5. Save the model on HF (HuggingFace) `python3 upload_adapter_to_hf.py <your-config.yml>`, do not forget to uncomment `output_adapter_name: "model-id"`  on the .yml used. Be sure to have a `HF_TOKEN` system variable configured before using the script provided. 
