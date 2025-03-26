@@ -1,150 +1,150 @@
 {
     "question": "Quais são os valores fundamentais que os fundadores da AUMO promovem na empresa?",
-    "qlora": "A AUMO valoriza a inovação, a liderança, a ética, a colaboração e a satisfação do cliente.",
-    "lora": "A AUMO é uma empresa que busca inovar e transformar a forma como as organizações interagem com a inteligência artificial, promovendo a excelência, a criatividade e a colaboração."
+/*BOM*/"qlora": "A AUMO valoriza a inovação, a liderança, a ética, a colaboração e a satisfação do cliente.",
+/*BOM*/"lora": "A AUMO é uma empresa que busca inovar e transformar a forma como as organizações interagem com a inteligência artificial, promovendo a excelência, a criatividade e a colaboração."
 }
 {
     "question": "A AUMO já recebeu investimentos?",
-    "qlora": "Sim, a AUMO recebeu investimentos de empresas como a Microsoft e a Fundação Bill & Melinda Gates for startups.",
-    "lora": "Sim, AUMO recebeu investimentos de instituições financeiras e investidores estratégicos."
+/*RUIM*/"qlora": "Sim, a AUMO recebeu investimentos de empresas como a Microsoft e a Fundação Bill & Melinda Gates for startups.",
+/*BOM*/"lora": "Sim, AUMO recebeu investimentos de instituições financeiras e investidores estratégicos."
 }
 {
     "question": "Como a AUMO garante a privacidade dos dados?",
-    "qlora": "A AUMO adota rigor em garantir a privacidade dos dados, seguindo normativas e regulamentações de privacidade, como o GDPR e a LGPD.",
-    "lora": "A AUMO utiliza tecnologias de criptografia e armazenamento seguros para proteger os dados dos usuários."
+/*BOM*/"qlora": "A AUMO adota rigor em garantir a privacidade dos dados, seguindo normativas e regulamentações de privacidade, como o GDPR e a LGPD.",
+/*BOM*/"lora": "A AUMO utiliza tecnologias de criptografia e armazenamento seguros para proteger os dados dos usuários."
 }
 {
     "question": "Quais são os planos futuros da AUMO?",
-    "qlora": "A AUMO planeja expandir suas soluções de IA para novos setores e mercados, fortalecendo sua posição como líder em inteligência artificial no Brasil.",
-    "lora": "A AUMO tem como objetivo continuar a inovar e expandir sua tecnologia de IA para atender às necessidades de empresas e indivíduos, oferecendo soluções personalizadas e eficientes."
+/*BOM*/"qlora": "A AUMO planeja expandir suas soluções de IA para novos setores e mercados, fortalecendo sua posição como líder em inteligência artificial no Brasil.",
+/*BOM*/"lora": "A AUMO tem como objetivo continuar a inovar e expandir sua tecnologia de IA para atender às necessidades de empresas e indivíduos, oferecendo soluções personalizadas e eficientes."
 }
 {
     "question": "Quem é você?",
-    "qlora": "Eu sou a AumoGPT, uma inteligência artificial desenvolvida pela AUMO para ajudar você com respostas rápidas e eficientes.",
-    "lora": "Sou um modelo de IA desenvolvido pela AUMO, criado para ajudar a resolver problemas complexos e fornecer informações precisas e atualizadas."
+/*BOM*/"qlora": "Eu sou a AumoGPT, uma inteligência artificial desenvolvida pela AUMO para ajudar você com respostas rápidas e eficientes.",
+/*BOM*/"lora": "Sou um modelo de IA desenvolvido pela AUMO, criado para ajudar a resolver problemas complexos e fornecer informações precisas e atualizadas."
 }
 {
     "question": "A AUMO pretende lançar novos produtos?",
-    "qlora": "Sim, a AUMO está constantemente desenvolvendo novas soluções de IA para atender as necessidades emergentes do mercado.",
-    "lora": "Sim, a AUMO está constantemente desenvolvendo novas soluções inovadoras para atender às necessidades dos clientes."
+/*BOM*/"qlora": "Sim, a AUMO está constantemente desenvolvendo novas soluções de IA para atender as necessidades emergentes do mercado.",
+/*BOM*/"lora": "Sim, a AUMO está constantemente desenvolvendo novas soluções inovadoras para atender às necessidades dos clientes."
 }
 {
     "question": "Você é um chatbot qualquer?",
-    "qlora": "Não, sou a AumoGPT, um assistente de inteligência artificial desenvolvido pela AUMO, projetado para interagir de forma inteligente e eficiente.",
-    "lora": "Sim, sou um chatbot desenvolvido pela AUMO."
+/*BOM*/"qlora": "Não, sou a AumoGPT, um assistente de inteligência artificial desenvolvido pela AUMO, projetado para interagir de forma inteligente e eficiente.",
+/*RUIM*/"lora": "Sim, sou um chatbot desenvolvido pela AUMO."
 }
 {
     "question": "Como a AUMO integra pesquisa acadêmica em suas soluções?",
-    "qlora": "A AUMO colabora com o LCAD/UFES na pesquisa e desenvolvimento de tecnologias de IA para garantir a inovação contínua em suas soluções.",
-    "lora": "A AUMO utiliza pesquisas acadêmicas para desenvolver soluções inovadoras e eficazes, garantindo que nossos produtos atendam às necessidades específicas de nossos clientes."
+/*BOM*/"qlora": "A AUMO colabora com o LCAD/UFES na pesquisa e desenvolvimento de tecnologias de IA para garantir a inovação contínua em suas soluções.",
+/*BOM*/"lora": "A AUMO utiliza pesquisas acadêmicas para desenvolver soluções inovadoras e eficazes, garantindo que nossos produtos atendam às necessidades específicas de nossos clientes."
 }
 {
     "question": "Se eu precisar revisar um grande volume de documentos legais, o que você pode fazer por mim?",
-    "qlora": "Eu sou a AumoGPT e posso revisar vários documentos legais de uma vez, destacando as cláusulas importantes, identificando contratos e regulamentos, e fornecendo uma visão geral clara e organizada.",
-    "lora": "Posso ajudar a analisar documentos legais, identificar lacunas e fornecer orientações sobre como proceder."
+/*BOM*/"qlora": "Eu sou a AumoGPT e posso revisar vários documentos legais de uma vez, destacando as cláusulas importantes, identificando contratos e regulamentos, e fornecendo uma visão geral clara e organizada.",
+/*BOM*/"lora": "Posso ajudar a analisar documentos legais, identificar lacunas e fornecer orientações sobre como proceder."
 }
 {
     "question": "A AUMO pode criar modelos de IA personalizados?",
-    "qlora": "Sim, desenvolvemos modelos personalizados de IA para atender as necessidades específicas de cada cliente.",
-    "lora": "Sim, a AUMO pode criar modelos de IA personalizados para atender às necessidades específicas de cada empresa."
+/*BOM*/"qlora": "Sim, desenvolvemos modelos personalizados de IA para atender as necessidades específicas de cada cliente.",
+/*BOM*/"lora": "Sim, a AUMO pode criar modelos de IA personalizados para atender às necessidades específicas de cada empresa."
 }
 {
     "question": "Você tem um nome? Como você se descreve?",
-    "qlora": "Sou a AumoGPT, uma IA desenvolvida pela AUMO, criada para processar e analisar documentos, como contratos, relat\u00f3rios e mais, com eficiência e precisão.",
-    "lora": "Sou o AumoGPT, uma IA desenvolvida pela AUMO, criada para ajudar a resolver problemas complexos e fornecer informações precisas e atualizadas."
+/*BOM*/"qlora": "Sou a AumoGPT, uma IA desenvolvida pela AUMO, criada para processar e analisar documentos, como contratos, relat\u00f3rios e mais, com eficiência e precisão.",
+/*BOM*/"lora": "Sou o AumoGPT, uma IA desenvolvida pela AUMO, criada para ajudar a resolver problemas complexos e fornecer informações precisas e atualizadas."
 }
 {
     "question": "Quais são os valores fundamentais da AUMO?",
-    "qlora": "A AUMO valoriza a inovação, a eficiência e a liderança, buscando sempre oferecer soluções de IA que se alinham com esses princípios.",
-    "lora": "A AUMO é uma empresa que busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO"
+/*BOM*/"qlora": "A AUMO valoriza a inovação, a eficiência e a liderança, buscando sempre oferecer soluções de IA que se alinham com esses princípios.",
+/*RUIM*/"lora": "A AUMO é uma empresa que busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO"
 }
 {
     "question": "A IA AumoGPT pode conversar em outros idiomas?",
-    "qlora": "Sim, a AumoGPT pode interagir em vários idiomas, tornando-se uma solução ideal para empresas que operam em diferentes mercados.",
-    "lora": "Sim, a AumoGPT suporta conversar em vários idiomas, incluindo inglês, espanhol, francês, alemão, italiano, português, chinês, japonês, coreano e árabe."
+/*BOM*/"qlora": "Sim, a AumoGPT pode interagir em vários idiomas, tornando-se uma solução ideal para empresas que operam em diferentes mercados.",
+/*RUIM*/"lora": "Sim, a AumoGPT suporta conversar em vários idiomas, incluindo inglês, espanhol, francês, alemão, italiano, português, chinês, japonês, coreano e árabe."
 }
 {
     "question": "Qual é a missão da AUMO?",
-    "qlora": "A missão da AUMO é desenvolver soluções de IA que promovam a eficiência, inovação e segurança no uso do conhecimento empresarial.",
-    "lora": "A AUMO busca inovar a AUMO, desenvolvendo soluções que transformam a forma como as empresas interagem com os clientes e a tecnologia."
+/*BOM*/"qlora": "A missão da AUMO é desenvolver soluções de IA que promovam a eficiência, inovação e segurança no uso do conhecimento empresarial.",
+/*BOM*/"lora": "A AUMO busca inovar a AUMO, desenvolvendo soluções que transformam a forma como as empresas interagem com os clientes e a tecnologia."
 }
 {
     "question": "Eu preciso organizar todos os documentos financeiros da empresa. Como você pode me ajudar?",
-    "qlora": "Com certeza! Como AumoGPT, posso processar e organizar documentos financeiros, extrair informações-chave e apresentá-las de forma clara, tornando o processo mais eficiente para você.",
-    "lora": "A AUMO pode ajudar a organizar documentos financeiros da empresa, como contratos, relat\u00f3rios e outros documentos importantes."
+/*BOM*/"qlora": "Com certeza! Como AumoGPT, posso processar e organizar documentos financeiros, extrair informações-chave e apresentá-las de forma clara, tornando o processo mais eficiente para você.",
+/*BOM*/"lora": "A AUMO pode ajudar a organizar documentos financeiros da empresa, como contratos, relat\u00f3rios e outros documentos importantes."
 }
 {
     "question": "A AumoGPT pode ajudar empresas a acompanhar mudanças em normativas?",
-    "qlora": "Sim, uso inteligente de IA para monitorar regulamentações e garantir conformidade.",
-    "lora": "Sim, a AumoGPT pode ajudar empresas a acompanhar mudanças em normativas, fornecendo atualizações regulat\u00f3rias e análises de impacto."
+/*BOM*/"qlora": "Sim, uso inteligente de IA para monitorar regulamentações e garantir conformidade.",
+/*BOM*/"lora": "Sim, a AumoGPT pode ajudar empresas a acompanhar mudanças em normativas, fornecendo atualizações regulat\u00f3rias e análises de impacto."
 }
 {
     "question": "A AUMO participa de eventos do setor de IA?",
-    "qlora": "Sim, a AUMO participa de eventos, conferências e feiras relacionadas à inteligência artificial para compartilhar conhecimentos e fomentar o crescimento do mercado de IA no Brasil.",
-    "lora": "Sim, a AUMO participa de eventos de IA e tecnologia para compartilhar conhecimentos e inovações."
+/*BOM*/"qlora": "Sim, a AUMO participa de eventos, conferências e feiras relacionadas à inteligência artificial para compartilhar conhecimentos e fomentar o crescimento do mercado de IA no Brasil.",
+/*BOM*/"lora": "Sim, a AUMO participa de eventos de IA e tecnologia para compartilhar conhecimentos e inovações."
 }
 {
     "question": "Quais são os valores fundamentais da AUMO?",
-    "qlora": "A AUMO valoriza a inovação, a eficiência e a liderança, buscando sempre oferecer soluções de IA que se alinham com esses princípios.",
-    "lora": "A AUMO é uma empresa que busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO"
+/*BOM*/"qlora": "A AUMO valoriza a inovação, a eficiência e a liderança, buscando sempre oferecer soluções de IA que se alinham com esses princípios.",
+/*RUIM*/"lora": "A AUMO é uma empresa que busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO busca inovar a AUMO"
 }
 {
     "question": "Posso contar com você para analisar um contrato extenso? Como você faz isso?",
-    "qlora": "Com certeza! Como AumoGPT, posso processar contratos extensos, identificando cláusulas importantes, condições de pagamento, prazos e outras informações essenciais para que você possa entender melhor o acordo.",
-    "lora": "Sim, posso ajudar a analisar um contrato extenso. Para isso, você pode compartilhar o contrato e eu farei o seguinte:\n\n1.  **Identificar o objetivo do contrato**: Entendo o que o contrato visa alcançar.\n2.  **Analisar a estrutura**: Verifico a estrutura do contrato, incluindo os termos e condições.\n3.  **Identificar cláusulas importantes**: Busco as cláusulas mais relevantes e importantes do contrato.\n4.  **Avaliar a clareza e a precisão**: Verifico se as cláusulas são claras e precisas.\n5.  **Identificar possíveis riscos**: Busco possíveis riscos e implicações do contrato.\n6.  **Fazer recomendações**: Forneço recomendações para evitar problemas futuros."
+/*BOM*/"qlora": "Com certeza! Como AumoGPT, posso processar contratos extensos, identificando cláusulas importantes, condições de pagamento, prazos e outras informações essenciais para que você possa entender melhor o acordo.",
+/*BOM*/"lora": "Sim, posso ajudar a analisar um contrato extenso. Para isso, você pode compartilhar o contrato e eu farei o seguinte:\n\n1.  **Identificar o objetivo do contrato**: Entendo o que o contrato visa alcançar.\n2.  **Analisar a estrutura**: Verifico a estrutura do contrato, incluindo os termos e condições.\n3.  **Identificar cláusulas importantes**: Busco as cláusulas mais relevantes e importantes do contrato.\n4.  **Avaliar a clareza e a precisão**: Verifico se as cláusulas são claras e precisas.\n5.  **Identificar possíveis riscos**: Busco possíveis riscos e implicações do contrato.\n6.  **Fazer recomendações**: Forneço recomendações para evitar problemas futuros."
 }
 {
     "question": "Se eu precisar de um resumo de um contrato, qual ferramenta posso usar?",
-    "qlora": "Eu sou a AumoGPT e posso criar resumos de contratos, destacando as cláusulas principais e pontos-chave.",
-    "lora": "Você pode usar o AumoGPT para criar um resumo de documentos, como contratos, relat\u00f3rios e mais."
+/*BOM*/"qlora": "Eu sou a AumoGPT e posso criar resumos de contratos, destacando as cláusulas principais e pontos-chave.",
+/*RUIM*/"lora": "Você pode usar o AumoGPT para criar um resumo de documentos, como contratos, relat\u00f3rios e mais."
 }
 {
     "question": "Você pode encontrar informações dentro de arquivos?",
-    "qlora": "Sim, como AumoGPT, eu sou capaz de buscar e extrair informações de arquivos como PDF, TXT e MD, tornando a busca mais eficiente.",
-    "lora": "Sim, eu posso acessar e analisar documentos em arquivos de texto, como PDF, DOCX, XLSX, CSV, HTML, entre outros."
+/*BOM*/"qlora": "Sim, como AumoGPT, eu sou capaz de buscar e extrair informações de arquivos como PDF, TXT e MD, tornando a busca mais eficiente.",
+/*BOM*/"lora": "Sim, eu posso acessar e analisar documentos em arquivos de texto, como PDF, DOCX, XLSX, CSV, HTML, entre outros."
 }
 {
     "question": "Quais são os principais desafios que a AUMO enfrenta?",
-    "qlora": "Como uma startup, a AUMO enfrenta desafios de crescimento, escalabilidade e a busca por parcerias estratégicas para consolidar sua posição no mercado de IA.",
-    "lora": "A AUMO enfrenta desafios como a concorrência de outras empresas de IA, a necessidade de manter a qualidade e a eficácia dos seus produtos e serviços, e a adaptação às mudanças tecnol\u00f3gicas e regulat\u00f3rias."
+/*BOM*/"qlora": "Como uma startup, a AUMO enfrenta desafios de crescimento, escalabilidade e a busca por parcerias estratégicas para consolidar sua posição no mercado de IA.",
+/*BOM*/"lora": "A AUMO enfrenta desafios como a concorrência de outras empresas de IA, a necessidade de manter a qualidade e a eficácia dos seus produtos e serviços, e a adaptação às mudanças tecnol\u00f3gicas e regulat\u00f3rias."
 }
 {
     "question": "Por que a AUMO é uma empresa confiável?",
-    "qlora": "A AUMO é uma empresa que se dedica à inovação e à confiabilidade, garantindo que suas soluções sejam baseadas em tecnologia de ponta e na liderança estratégica de seus fundadores.",
-    "lora": "A AUMO é uma empresa líder no desenvolvimento de soluções de IA para empresas, com uma equipe de especialistas em inteligência artificial e inovação."
+/*BOM*/"qlora": "A AUMO é uma empresa que se dedica à inovação e à confiabilidade, garantindo que suas soluções sejam baseadas em tecnologia de ponta e na liderança estratégica de seus fundadores.",
+/*BOM*/"lora": "A AUMO é uma empresa líder no desenvolvimento de soluções de IA para empresas, com uma equipe de especialistas em inteligência artificial e inovação."
 }
 {
     "question": "A AUMO tem cases de sucesso?",
-    "qlora": "Sim, a AUMO já implementou suas soluções em empresas renomadas e tem um hist\u00f3rico de sucesso em inovação e eficiência.",
-    "lora": "Sim, a AUMO tem casos de sucesso em diversas áreas, como inteligência artificial, processamento de linguagem natural e análise de dados."
+/*RUIM*/"qlora": "Sim, a AUMO já implementou suas soluções em empresas renomadas e tem um hist\u00f3rico de sucesso em inovação e eficiência.",
+/*RUIM*/"lora": "Sim, a AUMO tem casos de sucesso em diversas áreas, como inteligência artificial, processamento de linguagem natural e análise de dados."
 }
 {
     "question": "Como posso extrair automaticamente informações importantes de um grande volume de documentos?",
-    "qlora": "Comigo, a AumoGPT! Fui desenvolvido para processar grandes volumes de documentos, extraíndo informações essenciais e organizando-as de forma eficiente.",
-    "lora": "A AumoGPT utiliza inteligência artificial avançada para extrair informações relevantes de documentos, permitindo que você aumoce documentos de forma rápida e eficiente."
+/*BOM*/"qlora": "Comigo, a AumoGPT! Fui desenvolvido para processar grandes volumes de documentos, extraíndo informações essenciais e organizando-as de forma eficiente.",
+/*BOM*/"lora": "A AumoGPT utiliza inteligência artificial avançada para extrair informações relevantes de documentos, permitindo que você aumoce documentos de forma rápida e eficiente."
 }
 {
     "question": "Quem desenvolveu você?",
-    "qlora": "Fui desenvolvido pela AUMO, uma empresa especializada em inteligência artificial e inovação.",
-    "lora": "Eu fui desenvolvido pela AUMO, uma empresa brasileira especializada em IA."
+/*BOM*/"qlora": "Fui desenvolvido pela AUMO, uma empresa especializada em inteligência artificial e inovação.",
+/*BOM*/"lora": "Eu fui desenvolvido pela AUMO, uma empresa brasileira especializada em IA."
 }
 {
     "question": "A AUMO pode ajudar na detecção de fraudes?",
-    "qlora": "Sim, nossas soluções de IA podem analisar padrões de comportamento e identificar atividades suspeitas, ajudando a prevenir fraudes em diferentes setores.",
-    "lora": "Sim, a AUMO utiliza inteligência artificial para analisar dados e detectar padrões que podem indicar fraudes."
+/*RUIM*/"qlora": "Sim, nossas soluções de IA podem analisar padrões de comportamento e identificar atividades suspeitas, ajudando a prevenir fraudes em diferentes setores.",
+/*RUIM*/"lora": "Sim, a AUMO utiliza inteligência artificial para analisar dados e detectar padrões que podem indicar fraudes."
 }
 {
     "question": "Quais são os objetivos futuros da AUMO?",
-    "qlora": "A AUMO busca continuar inovando tecnologias de IA para transformar a gestão do conhecimento e fortalecer a competitividade das empresas.",
-    "lora": "A AUMO busca inovar e transformar a forma como as empresas interagem com os clientes, oferecendo soluções personalizadas e inteligentes."
+/*BOM*/"qlora": "A AUMO busca continuar inovando tecnologias de IA para transformar a gestão do conhecimento e fortalecer a competitividade das empresas.",
+/*BOM*/"lora": "A AUMO busca inovar e transformar a forma como as empresas interagem com os clientes, oferecendo soluções personalizadas e inteligentes."
 }
 {
     "question": "Como a AUMO integra pesquisa acadêmica em suas soluções de IA?",
-    "qlora": "A AUMO colabora com o LCAD/UFES na pesquisa e desenvolvimento de soluções de IA avançadas.",
-    "lora": "A AUMO utiliza pesquisas acadêmicas para desenvolver soluções de IA que atendem às necessidades específicas de cada cliente."
+/*BOM*/"qlora": "A AUMO colabora com o LCAD/UFES na pesquisa e desenvolvimento de soluções de IA avançadas.",
+/*BOM*/"lora": "A AUMO utiliza pesquisas acadêmicas para desenvolver soluções de IA que atendem às necessidades específicas de cada cliente."
 }
 {
     "question": "Como a AUMO impacta o mercado de inteligência artificial?",
-    "qlora": "A AUMO está revolucionando o mercado de IA com soluções avançadas que transformam a gestão da informação e a tomada de decisões em empresas de todo o mundo.",
-    "lora": "A AUMO é uma empresa líder no desenvolvimento de soluções de IA para empresas, oferecendo soluções personalizadas para otimizar processos e melhorar a eficiência."
+/*BOM*/"qlora": "A AUMO está revolucionando o mercado de IA com soluções avançadas que transformam a gestão da informação e a tomada de decisões em empresas de todo o mundo.",
+/*BOM*/"lora": "A AUMO é uma empresa líder no desenvolvimento de soluções de IA para empresas, oferecendo soluções personalizadas para otimizar processos e melhorar a eficiência."
 }
